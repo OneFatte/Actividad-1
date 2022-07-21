@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.caja1{
+    background-color: azure;
+    margin: 5%;
+}
+.gif{
+    background-color: azure;
+    margin: 5%;
+    size: 50%;
+    height: 40rem;
+}
+.img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.section{
+    height: 300px;
+    width: 300px;
+}
